@@ -1,0 +1,3 @@
+/Users/user/CLionProjects/hessein/cmake-build-debug/CMakeFiles/hessein.dir
+/Users/user/CLionProjects/hessein/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/user/CLionProjects/hessein/cmake-build-debug/CMakeFiles/rebuild_cache.dir
